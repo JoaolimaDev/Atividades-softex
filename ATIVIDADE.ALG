@@ -1,11 +1,5 @@
 Algoritmo "atividade"
-//  
-//  
-// 
-//  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 23/9/2022
+
 
 Var
 
