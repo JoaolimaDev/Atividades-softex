@@ -13,7 +13,7 @@ faltas = int(input("Número de Faltas: "))
 nota_01 = int(input("Nota 1 .:"))
 
 nota_02 = int(input("Nota 2.:"))
-
+kg = float()
 media = (nota_01 + nota_02)/2
 
 
